@@ -6,6 +6,7 @@ bool user_says_yes();
 
 int main()
 {
+
 	Life configuration;
 	configuration.instructions();
 	configuration.intialize();
